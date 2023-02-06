@@ -17,7 +17,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/vrumg/gensort"
+	"github.com/aliocode/gensort"
 )
 
 func main() {
