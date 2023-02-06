@@ -1,4 +1,4 @@
-module github.com/vrumg/gensort
+module github.com/aliocode/gensort
 
 go 1.19
 

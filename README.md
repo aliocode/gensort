@@ -47,7 +47,7 @@ go test -bench=. -benchmem
 
 goos: linux
 goarch: amd64
-pkg: github.com/vrumg/gensort
+pkg: github.com/aliocode/gensort
 cpu: AMD Ryzen 7 3700X 8-Core Processor
 BenchmarkBubbleSort-16                16          68920794 ns/op          161920 B/op      10001 allocs/op
 BenchmarkInsertionSort-16             27          42216993 ns/op          161920 B/op      10001 allocs/op
