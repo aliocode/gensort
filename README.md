@@ -6,10 +6,6 @@
 - Covered by fuzzing and benchmarks;
 
 # Gensort
-
-![](https://img.icons8.com/ios/452/generic-sorting.png)
-
-
 **Usage**
 #### Code example
 ```golang
